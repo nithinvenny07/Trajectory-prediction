@@ -1,0 +1,10 @@
+YOLOV3:
+  CFG: "C:/Users/venny/Downloads/yolov3-custom.cfg"
+  WEIGHT: "C:/Users/venny/Downloads/yolov3-custom_last (2).weights"
+  CLASS_NAMES: "./detector/YOLOv3/cfg/classes.names"
+  #CFG: "C:/Users/venny/Desktop/Project/yolov3.cfg"
+  #WEIGHT: "C:/Users/venny/Desktop/Project/yolov3.weights"
+  #CLASS_NAMES: "C:/Users/venny/Desktop/Project/coco.names"
+
+  SCORE_THRESH: 0.7
+  NMS_THRESH: 0.3
